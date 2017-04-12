@@ -1,5 +1,5 @@
 {
-    "name": "phpimageCreator/imagecreator",
+    "name": " phpimage-creator/imagecreator",
     "description": "Craete a background Image",
     "require": {
         "php": "^5.3.3 || ^7.0",
